@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "asm-first-calc": "^1.0.0",
+    "finalhandler": "^1.1.2",
+    "morgan": "^1.10.0",
+    "raghu-svit-second": "^1.0.1"
+  },
+  "devDependencies": {
+    "jslint": "^0.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
